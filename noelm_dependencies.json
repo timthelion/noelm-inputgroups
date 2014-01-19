@@ -2,10 +2,10 @@
 , "summary": "Make groups of inputs that can be switched on and off easily"
 , "description":
   "This library allows you to group inputs and then toggle those groups on and off."
-, "license": "BSD3"
-, "repository": "https://github.com/timthelion/elm-inputgroups.git"
+, "license": "LGPLv3"
+, "repository": "https://github.com/timthelion/noelm-inputgroups.git"
 , "exposed-modules":
  [ "Signal.InputGroups" ]
-, "elm-version": "0.10.0.2"
+, "noelm-version": "0.10.0.2"
 , "dependencies": {}
 }
